@@ -15,7 +15,7 @@ class Database
 
     function __construct()
     {
-        $this->ip = '18.220.186.241';
+        $this->ip = '13.58.7.178';
         $this->user = 'avaliacao';
         $this->password = 'd+/dSr7EwV6u<Zz[';
         $this->database = 'avaliacao';
